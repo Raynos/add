@@ -2,7 +2,6 @@
   "name": "add",
   "version": "1.0.0",
   "description": "Add two numbers",
-  "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
   "repository": "git://github.com/Raynos/add.git",
   "main": "index",
@@ -23,7 +22,7 @@
     "url": "http://github.com/Raynos/add/raw/master/LICENSE"
   }],
   "scripts": {
-    "test": "node ./test/index.js"
+    "test": "node./test/index.js"
   },
   "testling": {
     "files": "test/index.js",
